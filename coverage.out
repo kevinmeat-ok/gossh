@@ -1,0 +1,16 @@
+mode: set
+gossh/internal/config/config.go:26.38,28.18 1 1
+gossh/internal/config/config.go:28.18,30.3 1 1
+gossh/internal/config/config.go:33.2,33.22 1 1
+gossh/internal/config/config.go:33.22,35.3 1 1
+gossh/internal/config/config.go:38.2,38.35 1 1
+gossh/internal/config/config.go:38.35,40.3 1 1
+gossh/internal/config/config.go:43.2,43.41 1 1
+gossh/internal/config/config.go:43.41,45.3 1 1
+gossh/internal/config/config.go:48.2,48.21 1 1
+gossh/internal/config/config.go:48.21,49.55 1 1
+gossh/internal/config/config.go:49.55,51.4 1 1
+gossh/internal/config/config.go:54.2,54.12 1 1
+gossh/internal/config/config.go:61.41,63.2 1 1
+gossh/internal/config/config.go:68.39,70.2 1 1
+gossh/internal/config/config.go:75.44,77.2 1 1
